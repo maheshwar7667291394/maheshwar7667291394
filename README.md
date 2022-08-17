@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Maheshwar Sahni ! 👋
 
-<!--
-**maheshwar7667291394/maheshwar7667291394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on ...Masai School
+- 🌱 I’m currently learning ...Backend Developing
+- 👯 I’m looking to collaborate on ...Zoom
+- 🤔 I’m looking for help with ...Velocityx. Documentation
+- 💬 Ask me about ...Any tech related Stuff
+- 📫 How to reach me: ...Linkdin -
+- 😄 Pronouns: ...He/His
+- ⚡ Fun fact: ...Watching Football and Cricket
 -->

@@ -8,7 +8,7 @@ I am analytical, detail-oriented ,result driven graduate ,passionate about web d
 
 
 - 🔭 I’m currently working on ...Masai School
-- 🌱 I’m currently learning ...Backend Developing
+- 🌱 I’m currently learning ...Backend Development
 - 👯 I’m looking to collaborate on ...Zoom
 - 🤔 I’m looking for help with ...Velocityx. Documentation
 - 💬 Ask me about ...Any tech related Stuff

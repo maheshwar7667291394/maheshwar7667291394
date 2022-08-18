@@ -1,6 +1,8 @@
 ### Hello, I'm Maheshwar Sahni ! 👋
-hi i mahesh
 
+Hi , I’m Maheshwar , an aspiring full stack developer with specialization in backend development with  a passion for learning with an endless supply of optimism and curiosity.
+
+I am analytical, detail-oriented ,result driven graduate ,passionate about web development and i am skilled with backend developer and other development tools self-determined and  curious about building products.
 
 
 

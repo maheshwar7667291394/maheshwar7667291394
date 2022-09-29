@@ -5,8 +5,12 @@
  <h2 style="font-family: 'Courier New', Courier, monospace;">About Me</h2>
  <p style="font-family: 'Courier New', Courier, monospace; font-weight:bold">Hi , I’m Maheshwar , an aspiring full stack developer with specialization in backend development with a passion for learning with an endless supply of optimism and curiosity.    I am analytical, detail-oriented ,result driven graduate ,passionate about web development and i am skilled with backend developer and other development tools self-determined and curious about building products
 </p>
-<i class="fa-brands fa-twitter"></i>
+  <a href="https://twitter.com/MaheshB41963552"><img style="height: 50px; width: 50px;margin-right: 30px;" src="https://cdn.pixabay.com/photo/2021/12/10/16/37/twitter-6860915_1280.png" alt=""></a>
+   <a href="https://www.linkedin.com/in/maheshwar-sahni-18928b21b/"><img style="height: 50px; width: 50px;margin-right: 30px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""></a>
+    <a href="https://www.instagram.com/maheshP_1218/"><img style="height: 50px; width: 50px;margin-right: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt=""></a>
+     <a href="https://www.facebook.com/maheshk.sahani"><img style="height: 50px; width: 50px;margin-right: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt=""></a>
 <h1>Portfolio</h1>https://maheshwar-sahni-aac38d.netlify.app/
+
 
  📫 How to reach me **mkumar7667291394@gmail.com**
 

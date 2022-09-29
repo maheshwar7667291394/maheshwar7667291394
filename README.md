@@ -5,17 +5,10 @@
  <h2 style="font-family: 'Courier New', Courier, monospace;">About Me</h2>
  <p style="font-family: 'Courier New', Courier, monospace; font-weight:bold">Hi , I’m Maheshwar , an aspiring full stack developer with specialization in backend development with a passion for learning with an endless supply of optimism and curiosity.    I am analytical, detail-oriented ,result driven graduate ,passionate about web development and i am skilled with backend developer and other development tools self-determined and curious about building products
 </p>
-<h1>Portfolio</h1>(https://jolly-starburst-bad35e.netlify.app/)
+<i class="fa-brands fa-twitter"></i>
+<h1>Portfolio</h1>https://maheshwar-sahni-aac38d.netlify.app/
 
-- 🌱 I’m currently learning **JDBC**
-
-- 👯 I’m looking to collaborate on [Hindustan News App](https://jolly-starburst-bad35e.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [maheshwar-sahni-e3c1c3.netlify.app](maheshwar-sahni-e3c1c3.netlify.app)
-
-- 💬 Ask me about **Any tech related question**
-
-- 📫 How to reach me **mkumar7667291394@gmail.com**
+ 📫 How to reach me **mkumar7667291394@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1FEXmuNaoqxb29zha08LrJf6VQ_WpuT19](https://drive.google.com/uc?export=download&id=1FEXmuNaoqxb29zha08LrJf6VQ_WpuT19)
 - ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshwar7667291394&theme=github)

@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
  <h2 style="font-family: 'Courier New', Courier, monospace;">About Me</h2>
- <p style="font-family: 'Courier New', Courier, monospace; font-weight:bold">Hi , I’m Maheshwar , an aspiring full stack developer with specialization in backend development with a passion for learning with an endless supply of optimism and curiosity.    I am analytical, detail-oriented ,result driven graduate ,passionate about web development and i am skilled with backend developer and other development tools self-determined and curious about building products
+ <p style="font-family: 'Courier New', Courier, monospace; font-weight:bold">Hey, I’m Maheshwar, an aspiring full-stack developer with a specialisation in backend development, a passion for learning, and an endless supply of optimism and curiosity. I am an analytical, detail-oriented, result-driven graduate. I am passionate about web development, and I am skilled with backend development and other development tools. I am self-determined and curious about building products.
 </p>
   <a href="https://twitter.com/MaheshB41963552"><img style="height: 50px; width: 50px;margin-right: 30px;" src="https://cdn.pixabay.com/photo/2021/12/10/16/37/twitter-6860915_1280.png" alt=""></a>
    <a href="https://www.linkedin.com/in/maheshwar-sahni-18928b21b/"><img style="height: 50px; width: 50px;margin-right: 30px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt=""></a>
